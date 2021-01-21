@@ -1,0 +1,7 @@
+C:\Users\idukh\source\repos\MessageBrokerSolution\bin\Debug\MessageBrokerSolution.exe.config
+C:\Users\idukh\source\repos\MessageBrokerSolution\bin\Debug\MessageBrokerSolution.exe
+C:\Users\idukh\source\repos\MessageBrokerSolution\bin\Debug\MessageBrokerSolution.pdb
+C:\Users\idukh\source\repos\MessageBrokerSolution\obj\Debug\MessageBrokerSolution.csprojAssemblyReference.cache
+C:\Users\idukh\source\repos\MessageBrokerSolution\obj\Debug\MessageBrokerSolution.csproj.CoreCompileInputs.cache
+C:\Users\idukh\source\repos\MessageBrokerSolution\obj\Debug\MessageBrokerSolution.exe
+C:\Users\idukh\source\repos\MessageBrokerSolution\obj\Debug\MessageBrokerSolution.pdb
